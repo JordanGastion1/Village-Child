@@ -1,4 +1,4 @@
- style## Invite people to Village Child to help impact your child's envirnoment! 
+ Invite people to Village Child to help impact your child's envirnoment! 
 
 ### Make Your Account!
 <div style="background-color:deepSkyBlue; color:yellow; padding:35px;">
@@ -13,7 +13,6 @@
 ###  Select Your Zip Code
 
 
-```markdown
 <div style="background-color:yellow; color:white; padding:50px;">
 <input type="radio" name="zip" value="other" />30034 <br />
 <input type="radio" name="zip" value="other" />30329 <br />
@@ -24,7 +23,7 @@
 <input type="text" name="zip" value="Other"  />
 <input type="submit" value="Submit" />
 </div>
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
