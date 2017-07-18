@@ -1,5 +1,5 @@
 <img src="http://www.iconsdb.com/icons/preview/orange/home-5-xxl.png" height="150px" width="150px" alt="" />
-<img src="https://www.camplaurel.com/blog/wp-content/uploads/2013/03/Stick-figure-siblings2-300x300.jpg" height="130px" width="130"px alt="" />
+<img src="https://www.camplaurel.com/blog/wp-content/uploads/2013/03/Stick-figure-siblings2-300x300.jpg" height="130px" width="130px" alt="" />
         <br />
 Invite people to Village Child to help impact your child's envirnoment! 
 
