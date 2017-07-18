@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Invite people to Village Child near you that are willing to help impact your child's envirnoment! 
 
-You can use the [editor on GitHub](https://github.com/JordanGastion1/Village-child/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#You can use the [editor on GitHub](https://github.com/JordanGastion1/Village-child/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div style="background-color:deepSkyBlue; color:yellow; padding:35px;">
+            <p><strong>Sign up to add friends now!</strong></p>
+            <form>
+            <input type="text" name="username"/> <br/>
+            <input type="password" name="password" />
+            <input type="submit" value="Go" />
+            </form>
+        </div>
 
-### Markdown
+###  SELECT ZIP CODE
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
