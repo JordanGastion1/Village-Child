@@ -1,36 +1,29 @@
-## Invite people to Village Child near you that are willing to help impact your child's envirnoment! 
+ style## Invite people to Village Child to help impact your child's envirnoment! 
 
-#You can use the [editor on GitHub](https://github.com/JordanGastion1/Village-child/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+### Make Your Account!
 <div style="background-color:deepSkyBlue; color:yellow; padding:35px;">
-            <p><strong>Sign up to add friends now!</strong></p>
+            <h3> <p><strong>Sign up to add local friends now!</strong></p> </h3>
             <form>
-            <input type="text" name="username"/> <br/>
+            <input type="text" name="name"/> <br/>
             <input type="password" name="password" />
             <input type="submit" value="Go" />
-            </form>
+            </form> 
         </div>
 
-###  SELECT ZIP CODE
+###  Select Your Zip Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<div style="background-color:yellow; color:white; padding:50px;">
+<input type="radio" name="zip" value="other" />30034 <br />
+<input type="radio" name="zip" value="other" />30329 <br />
+<input type="radio" name="zip" value="other" />30034 <br />
+<input type="radio" name="zip" value="other" />30058 <br />
+<input type="radio" name="zip" value="other" />30007 <br />
+<input type="radio" name="zip" value="other" />30252 <br />
+<input type="text" name="zip" value="Other"  />
+<input type="submit" value="Submit" />
+</div>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
