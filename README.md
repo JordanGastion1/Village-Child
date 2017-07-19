@@ -2,13 +2,14 @@
 <img src="https://www.camplaurel.com/blog/wp-content/uploads/2013/03/Stick-figure-siblings2-300x300.jpg" height="130px" width="130px" alt="" />
         <br />
 Invite people to Village Child to help impact your child's envirnoment! 
+ 
 
 ### Make Your Account!
 <div style="background-color:steelBlue; color:white; padding:35px;">
             <h3> <p><strong>Sign up to add local friends now!</strong></p> </h3>
             <form>
-            <input type="text" name="name"/> <br/>
-            <input type="password" name="password" />
+            <input type="text" name="name" value="Username"/> <br/>
+            <input type="password" name="password" value="Password"/>
             <input type="submit" value="Go" />
             </form> 
         </div>
@@ -30,7 +31,7 @@ Invite people to Village Child to help impact your child's envirnoment!
 
 
 
-### You also join our Hot-line every Tueday at 5 pm to 8 pm! 
+### Feel free to join our Hot-line every Tueday at 5 pm to 8 pm! 
 CALL AT 1(800)-211-village
 
 <!--style="color:blue"> -->
@@ -39,5 +40,6 @@ CALL AT 1(800)-211-village
 <li>100 Black Men </li>
 <li>Preachers with parenting experience</li>
 <li>Ministers with parenting experience</li>
+<li>And Much More</li>
 </ul> 
 </h4>
