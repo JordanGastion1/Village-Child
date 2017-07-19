@@ -20,7 +20,7 @@ Invite people to Village Child to help impact your child's envirnoment!
 
 <div style="background-color:gold; color:black; padding:50px;">
 <input type="radio" name="zip" value="other" />30034 <br />
-<input type="radio" name="zip" value="other" />30329 <br />a
+<input type="radio" name="zip" value="other" />30329 <br />
 <input type="radio" name="zip" value="other" />30034 <br />
 <input type="radio" name="zip" value="other" />30058 <br />
 <input type="radio" name="zip" value="other" />30007 <br />
