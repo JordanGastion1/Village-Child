@@ -10,7 +10,7 @@ Invite people to Village Child to help impact your child's envirnoment!
 <div style="background-color:steelBlue; color:white; padding:35px;">
             <h3> <p><strong>Sign up to add local friends now!</strong></p> </h3>
             <form><input type="text" name="name" value="Username"/> <br/>
-            <input type="text" name="Password" value="Password"/>
+            <input type="Password" name="Password" value="Password"/>
             <input type="submit" value="Go" />
             </form> 
         </div>
