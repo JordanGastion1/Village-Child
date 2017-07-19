@@ -1,7 +1,9 @@
 <img src="http://www.iconsdb.com/icons/preview/orange/home-5-xxl.png" height="150px" width="150px" alt="" />
 <img src="https://www.camplaurel.com/blog/wp-content/uploads/2013/03/Stick-figure-siblings2-300x300.jpg" height="130px" width="130px" alt="" />
         <br />
+        Village Child allows people within your zip code build relationships. With Village Child, you will be more familiar with the people in your community, providing a content and safe environment. When neighbors are familiar with your child they can watch over them even if you're not present.   
 Invite people to Village Child to help impact your child's envirnoment! 
+
  
 
 ### Make Your Account!
@@ -18,7 +20,7 @@ Invite people to Village Child to help impact your child's envirnoment!
 
 <div style="background-color:gold; color:black; padding:50px;">
 <input type="radio" name="zip" value="other" />30034 <br />
-<input type="radio" name="zip" value="other" />30329 <br />
+<input type="radio" name="zip" value="other" />30329 <br />a
 <input type="radio" name="zip" value="other" />30034 <br />
 <input type="radio" name="zip" value="other" />30058 <br />
 <input type="radio" name="zip" value="other" />30007 <br />
