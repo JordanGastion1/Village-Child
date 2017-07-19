@@ -1,10 +1,10 @@
 <img src="http://www.iconsdb.com/icons/preview/orange/home-5-xxl.png" height="150px" width="150px" alt="" />
 <img src="https://www.camplaurel.com/blog/wp-content/uploads/2013/03/Stick-figure-siblings2-300x300.jpg" height="130px" width="130px" alt="" />
         <br />
-        Village Child allows people within your zip code build relationships. With Village Child, you will be more familiar with the people in your community, providing a content and safe environment. When neighbors are familiar with your child they can watch over them even if you're not present.   
+        Village Child allows you to build relationships with people within your neighbord. With Village Child, you will be more familiar with the people in your community, providing a content and safe environment for children. Village Child allows you to message and call with the local friends you add. It also provides a weekly hot-line for parents and guardians to discuss community issues, family issues, complaints, and even advice.
+
 Invite people to Village Child to help impact your child's envirnoment! 
 
- 
 
 ### Make Your Account!
 <div style="background-color:steelBlue; color:white; padding:35px;">
