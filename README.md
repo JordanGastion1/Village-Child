@@ -9,7 +9,7 @@ Invite people to Village Child to help impact your child's envirnoment!
             <h3> <p><strong>Sign up to add local friends now!</strong></p> </h3>
             <form>
             <input type="text" name="name" value="Username"/> <br/>
-            <input type="password" name="password" value="Password"/>
+            <input type="text" name="password" value="Password"/>
             <input type="submit" value="Go" />
             </form> 
         </div>
